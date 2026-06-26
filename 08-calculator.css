@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    font-family: Arial;
+    color: white;
+}
+
+.calculator-button {
+    background-color: rgb(51, 51, 51);
+    color: white;
+    font-family: Arial;
+    height: 60px;
+    width: 60px;
+    border: none;
+    font-weight: 60px;
+    border-radius: 50%;
+    margin-right: 5px;
+    margin-left: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.calculator-operation-button {
+    background-color: orange;
+    color: white;
+    font-family: Arial;
+    height: 60px;
+    width: 60px;
+    border: none;
+    font-weight: 60px;
+    border-radius: 50%;
+    margin-right: 5px;
+    margin-left: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.js-input-equation {
+    color: white;
+    font-size: 30px;
+}
